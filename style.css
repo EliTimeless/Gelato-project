@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: #fea397;
+}
+img {
+  border-radius: 20px;
+  margin: 20px;
+  text-align: center;
+}
+a {
+  color: #42571f;
+  margin: 10px;
+}
+.mailto {
+  color: rgb(26, 26, 250);
+  margin: 0;
+}
